@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+.env
+logs
+*.logs
+.Ds_Store
+thumbs.db
+dist/
